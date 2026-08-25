@@ -175,3 +175,4 @@ Currently, most clients do not support self-hosted instances that well. Herein a
 
 The Stoat Desktop App supports self-hosted instances. To configure the app for self-hosted, you must launch the app with the `--force-server=https://your.domain` command line flag. You cannot have multiple clients running, as launching the app while another copy is running will result in nothing happening.
 
+#### To be continued...
