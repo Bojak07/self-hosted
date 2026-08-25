@@ -1,4 +1,4 @@
-{$HOSTNAME} {
+:80 {
 	route /.well-known/stoat {
 		uri strip_prefix /.well-known/stoat
 		header {
